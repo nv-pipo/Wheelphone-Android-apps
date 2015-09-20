@@ -9,7 +9,7 @@ A short description of each app:
 * **Wheelphone_navigator:** An app that uses OpenCV and the camera to detect and follow blobs of color, while avoiding obstacles with the use of the proximity sensors.
 * **Wheelphone_pet:** An app that makes the robot behave like a pet. It uses the camera, proximity sensors and a stochastic behavioral system
 
-Images:
+Wheelphone in action:
 ![alt tag](http://www.gctronic.com/img/wheelphone-full-package.jpg)
 
 Videos:
