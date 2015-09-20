@@ -13,5 +13,4 @@ Wheelphone in action:
 ![alt tag](http://www.gctronic.com/img/wheelphone-full-package.jpg)
 
 Videos:
-[Wheelphone_navigator](http://www.gctronic.com/doc/index.php/Wheelphone-videos#Wheelphone_following_a_color_blob.2C_based_on_OpenCV)
-[Wheelphone_follow](http://www.gctronic.com/doc/index.php/Wheelphone-videos#Wheelphone_follows_an_apple)
+[Wheelphone_navigator](http://www.gctronic.com/doc/index.php/Wheelphone-videos#Wheelphone_following_a_color_blob.2C_based_on_OpenCV), [Wheelphone_follow](http://www.gctronic.com/doc/index.php/Wheelphone-videos#Wheelphone_follows_an_apple)
