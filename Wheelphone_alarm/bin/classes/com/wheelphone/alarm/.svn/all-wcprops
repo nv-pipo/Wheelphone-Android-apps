@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/trunk/Wheelphone_alarm/src/com/wheelphone/alarm
+END
+FragmentAlarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/Wheelphone_alarm/src/com/wheelphone/alarm/FragmentAlarm.java
+END
+ActivityMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Wheelphone_alarm/src/com/wheelphone/alarm/ActivityMain.java
+END
+AlarmReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/37/trunk/Wheelphone_alarm/src/com/wheelphone/alarm/AlarmReceiver.java
+END
+FragmentSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/37/trunk/Wheelphone_alarm/src/com/wheelphone/alarm/FragmentSettings.java
+END
+AutoStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/Wheelphone_alarm/src/com/wheelphone/alarm/AutoStart.java
+END
+AlarmPicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37/trunk/Wheelphone_alarm/src/com/wheelphone/alarm/AlarmPicker.java
+END
